@@ -11,3 +11,5 @@ Download Angular MEAN application via [mean-stack-angular](https://github.com/tr
 
 ## Video Tutorial
 MEAN Stack video tutorial available on YouTube [MEAN Stack](https://www.youtube.com/watch?v=zpCKT8nGnds&list=PLgOUQYMnO_SSTYLh5LfrihQOETgkepliJ)
+
+Also documentation available on [truecodex](https://www.truecodex.com/course/mean-mysql-expressjs-angular-nodejs)
